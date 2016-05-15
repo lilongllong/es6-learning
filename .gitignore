@@ -5,7 +5,3 @@
 # node.js
 #
 node_modules/
-
-# output
-#
-assets/
